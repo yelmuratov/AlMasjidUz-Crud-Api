@@ -1,0 +1,6 @@
+@AlMasjid_HostAddress = http://localhost:5012
+
+GET {{AlMasjid_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
